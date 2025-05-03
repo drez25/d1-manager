@@ -39,7 +39,7 @@
 		"csv-stringify": "^6.5.2",
 		"daisyui": "^5.0.34",
 		"debug": "^4.4.0",
-		"eslint": "^9.25.1",
+		"eslint": "^8.56.0",
 		"eslint-config-prettier": "^10.1.2",
 		"eslint-plugin-svelte": "^3.5.1",
 		"globals": "^16.0.0",
